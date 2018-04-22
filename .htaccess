@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^login/$ index.php
+RewriteRule ^petugas/$ petugas.php
+RewriteRule ^anggota/$ anggota.php
